@@ -64,6 +64,7 @@ class PhoneNumbers{
             );
 
             printCombinations(arr, list, combo, size, 0);
+            System.out.println();
 
         }
         out.flush();

@@ -41,4 +41,3 @@ class PrintAllCombinationsDP {
         printCombinations(arr, n, r, data, 0, 0);
     }
 }
-/* This code is contributed by Devesh Agrawal */
