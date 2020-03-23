@@ -1,0 +1,20 @@
+
+Vsquid:S11977"8Move the array designator from the variable to the type.(Ë¿Ê¬8ù³«Öù-
+Vsquid:S1197c"8Move the array designator from the variable to the type.(ê¨…ä8˜Î¬Øù-
+Vsquid:S1197J"8Move the array designator from the variable to the type.(½î‘â8ç¹×ù-
+Vsquid:S1197"8Move the array designator from the variable to the type.(Ò¡€¶8“éÌù-
+[squid:S1197d"8Move the array designator from the variable to the type.(Ö©¼±úÿÿÿÿ8˜Î¬Øù-
+Tsquid:S1197"8Move the array designator from the variable to the type.(ï¼Îúüÿÿÿÿ
+Tsquid:S1197y"8Move the array designator from the variable to the type.(‰Å±èÿÿÿÿÿ
+Vsquid:S1197f"8Move the array designator from the variable to the type.(õ§°å8¯ÀÊ×ù-
+Usquid:S2589#"7Remove this expression which always evaluates to "true"(ı¿Ê´8ÙîëÌù-
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÄÔ¾ûÿÿÿÿ
+[squid:S1197T"8Move the array designator from the variable to the type.(¿Éîıÿÿÿÿ8¡ø–Øù-
+Vsquid:S1197q"8Move the array designator from the variable to the type.(üÌöø8ïØ¼Öù-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üç¯ˆıÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+[squid:S1197"8Move the array designator from the variable to the type.(¨­Ô¤ùÿÿÿÿ8ÍÖæÌù-
+Vsquid:S11978"8Move the array designator from the variable to the type.(‡ÿ¾8ù³«Öù-
+Msquid:S1066>"/Merge this if statement with the enclosing one.(­©¦Ñ8£ÂÊÖù-
+@squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S1197T"8Move the array designator from the variable to the type.(¿Éîıÿÿÿÿ8¡ø–Øù-

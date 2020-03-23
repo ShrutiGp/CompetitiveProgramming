@@ -1,0 +1,28 @@
+
+Tsquid:S2696Y"6Make the enclosing method "static" or remove this set.(ØéÄË8ßş•Óò-
+csquid:S3358´"DExtract this nested ternary operation into an independent statement.(¢‘ÇÇ8ÎÆÁ¥ó-
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(™¢´ƒ8„²–Ğò-
+isquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(¿ÜV8¿½Äó-
+Zsquid:S2696ë"6Make the enclosing method "static" or remove this set.(‘¡–òùÿÿÿÿ8›š§¦ó-
+osquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(œ°Â¢úÿÿÿÿ8¿½Äó-
+Ysquid:S2696+"6Make the enclosing method "static" or remove this set.(‘¡–òùÿÿÿÿ8úªäĞò-
+asquid:S2259–"BA "NullPointerException" could be thrown; "prev" is nullable here.(ÎÔô°8ğûÅÄó-
+qsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¡óí‘8‘ØÏó-
+Usquid:S2696´"6Make the enclosing method "static" or remove this set.(¢‘ÇÇ8ÎÆÁ¥ó-
+qsquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(‡Œı8ÿ‚¥ó-
+`squid:S2259×"BA "NullPointerException" could be thrown; "slow" is nullable here.(¥Ôås8©•İÅó-
+asquid:S2259‘"BA "NullPointerException" could be thrown; "prev" is nullable here.(¿½÷ö8ª ÃÄó-
+[squid:UselessImportCheck"1Remove this unused import 'java.util.LinkedList'.(»Äğ18›—”Ğò-
+jsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(·“ÛÄ8¿½Äó-
+[squid:S2589Ñ"7Remove this expression which always evaluates to "true"(üÆ£Œşÿÿÿÿ8§Èâ£ó-
+qsquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾û©ç8¹¦ó-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ß‘ªıÿÿÿÿ
+\squid:S1197ì"8Move the array designator from the variable to the type.(ÊÁö§ıÿÿÿÿ8—šÉ¤ó-
+Nsquid:S1066ï"/Merge this if statement with the enclosing one.(±‚Üô8›š§¦ó-
+Ÿsquid:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€õ¸Ï8°ÌúÑò-
+gsquid:S2583"DChange this condition so that it does not always evaluate to "false"(Âàôûÿÿÿÿ8¨¥Œ•ó-
+`squid:S22599"BA "NullPointerException" could be thrown; "ptr1" is nullable here.(òÑ‰8ñˆÑò-
+tsquid:S1149»"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ÎéĞ¥ó-
+jsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(÷Ğ•8¿½Äó-
+–squid:S1845İ"rRename method "pairwiseSwap" to prevent any misunderstanding/clash with method "pairWiseSwap" defined on line 331.(ì‰±óÿÿÿÿÿ8¶ˆÓ£ó-
+Šsquid:S2234²"fParameters to getIntersectionPoint have the same names but not the same order as the method arguments.(‰¹äºşÿÿÿÿ8´ø•ó-

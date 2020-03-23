@@ -1,0 +1,12 @@
+
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«¥×8Û‚ßÛ-
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ì¯¾äÛ-
+gsquid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8ùõ®äÛ-
+Ksquid:S1481"(Remove this unused "str" local variable.(îâ–Êşÿÿÿÿ8°ƒÎåÛ-
+Zsquid:UselessImportCheck	"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8œ¶åÛ-
+Csquid:S2129" Remove this "String" constructor(îâ–Êşÿÿÿÿ8°ƒÎåÛ-
+dsquid:UselessImportCheck"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ8œ¶åÛ-
+Vsquid:S1197"8Move the array designator from the variable to the type.(„®§8Û‚ßÛ-
+[squid:S1197"8Move the array designator from the variable to the type.(šÚŠÖüÿÿÿÿ8Û‚ßÛ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÙØ‰Õşÿÿÿÿ8©š‘ßÛ-
+Zsquid:S1854"7Remove this useless assignment to local variable "str".(îâ–Êşÿÿÿÿ8ŸŸÕåÛ-

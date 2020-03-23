@@ -1,0 +1,5 @@
+
+Tsquid:S26963"6Make the enclosing method "static" or remove this set.(ƒ‹×ƒ8Îñùþö-
+Ssquid:S2209"5Change this instance-reference to a static reference.(•ÑÓÛ8Ï¼¥ÿö-
+Dsquid:S3010"!Remove this assignment of "root".(ûªÙÐøÿÿÿÿ8…Ú¡ÿö-
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Ë«

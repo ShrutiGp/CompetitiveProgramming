@@ -1,0 +1,6 @@
+
+Hsquid:S1602$",Remove useless curly braces around statement(Ýå‘…ÿÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(‰Å±èÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý“ô©
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æþÿÿÿÿ
+?squid:S11483"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

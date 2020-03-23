@@ -1,0 +1,16 @@
+
+dsquid:S1126"AReplace this if-then-else statement by a single return statement.(ğİ¯¦üÿÿÿÿ8§¨åÆó-
+[squid:S1197C"8Move the array designator from the variable to the type.(ıÙòøÿÿÿÿ8œ‚öËó-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÎœºËó-
+{
+squid:S135L"YReduce the total number of break and continue statements in this loop to use at most one.(˜ã¿ışÿÿÿÿ8ñŸîÆó-
+[squid:S18548"8Remove this useless assignment to local variable "elem".(²¾å¿ûÿÿÿÿ8œÅ“Íó-
+[squid:S1197J"8Move the array designator from the variable to the type.(ŠŠíóøÿÿÿÿ8Ë£ÙÆó-
+Lsquid:S14818")Remove this unused "elem" local variable.(²¾å¿ûÿÿÿÿ8œÅ“Íó-
+ssquid:S1149)"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ8„­çËó-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Ş°¦ıÿÿÿÿ
+[squid:S1197("8Move the array designator from the variable to the type.(ÍİÃ‹ùÿÿÿÿ8ñ´êËó-
+[squid:S1197"8Move the array designator from the variable to the type.(£õ¨‡ûÿÿÿÿ8Ñ¾¿Êó-
+Jsquid:S1612<",Replace this lambda with a method reference.(†ÏŸù8­ÃÌó-
+ssquid:S1149I"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8¬ö×Æó-
+isquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(å‹®ƒ8¥ˆ÷Ëó-

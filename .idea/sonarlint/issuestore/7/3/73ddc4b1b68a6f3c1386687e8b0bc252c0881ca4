@@ -1,0 +1,15 @@
+
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°´…¹üÿÿÿÿ8÷ùšÜ÷-
+asquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ÇûãÜ÷-
+hsquid:UselessImportCheck
+"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8»î›Ü÷-
+©%squid:RedundantThrowsDeclarationCheck8"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(´úÿÿÿÿ8ÇûãÜ÷-
+ksquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÁªÅ8÷ùšÜ÷-
+[squid:S1197"8Move the array designator from the variable to the type.(§¾ôûÿÿÿÿÿ8½¬Ü÷-
+[squid:S1197"8Move the array designator from the variable to the type.(§¾ôûÿÿÿÿÿ8½¬Ü÷-
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ÇûãÜ÷-
+Vsquid:S1197 "8Move the array designator from the variable to the type.(„±µï8İÍ´Ü÷-
+Vsquid:S1197 "8Move the array designator from the variable to the type.(„±µï8İÍ´Ü÷-
+Vsquid:S1197>"8Move the array designator from the variable to the type.(ÕÀ×ú8ãÃĞÜ÷-
+Usquid:S1197?"8Move the array designator from the variable to the type.(„º78ãÃĞÜ÷-
+[squid:S1197!"8Move the array designator from the variable to the type.(’ÌÅõúÿÿÿÿ8Â¾·Ü÷-

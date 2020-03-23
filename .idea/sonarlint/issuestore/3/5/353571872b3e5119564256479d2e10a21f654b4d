@@ -1,0 +1,13 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í¬¯õýÿÿÿÿ8µê£ò-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡°½€8µê£ò-
+Fsquid:S14812"(Remove this unused "res" local variable.(ª÷²ú8Ì‘Ý©ò-
+tsquid:UselessImportCheck"DRemove this unused import 'javax.swing.event.MenuDragMouseListener'.( ›×øúÿÿÿÿ8°Ôõ¨ò-
+Vsquid:S1197^"8Move the array designator from the variable to the type.(â‚Æû8ª¤Ãªò-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·Æ·’8µê£ò-
+?squid:S1643h"Use a StringBuilder instead.(ß·óþÿÿÿÿ8¦ÿÔªò-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³Ì¶éúÿÿÿÿ8µê£ò-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ëãü¬üÿÿÿÿ8ö¶Ê§ò-
+Usquid:S18542"7Remove this useless assignment to local variable "res".(ª÷²ú8Ì‘Ý©ò-
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þÎ
+osquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ÅÏœ­ýÿÿÿÿ8ÎŽ°äˆ.

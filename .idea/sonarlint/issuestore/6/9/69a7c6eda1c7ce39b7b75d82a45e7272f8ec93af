@@ -1,0 +1,7 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(ü‰»Ãüÿÿÿÿ
+?squid:S1148:"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æþÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üç¯ˆýÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(‰Å±èÿÿÿÿÿ

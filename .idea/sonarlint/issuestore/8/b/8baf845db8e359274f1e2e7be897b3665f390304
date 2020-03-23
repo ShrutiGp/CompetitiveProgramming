@@ -1,0 +1,8 @@
+
+Fsquid:S1481"(Remove this unused "num" local variable.(ıÌˆÚ8Ú¦Ä„Ñ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ¼§üÿÿÿÿ8½Æ»„Ñ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«¥×
+Usquid:S1854"7Remove this useless assignment to local variable "num".(ıÌˆÚ8Ú¦Ä„Ñ-
+jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îå•øùÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”üÊœ8Ú¦Ä„Ñ-

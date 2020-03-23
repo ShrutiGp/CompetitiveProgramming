@@ -1,0 +1,10 @@
+
+:squid:S16438"Use a StringBuilder instead.(Ö°ø 8²ôˆ…î-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«¥×8Í®‡„î-
+^squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Í®‡„î-
+Usquid:S1197 "8Move the array designator from the variable to the type.(¬øº%8ê‹„î-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(œû¿Ø8ƒ…£„î-
+Vsquid:S1197"8Move the array designator from the variable to the type.(„®§8Í®‡„î-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Í®‡„î-
+?squid:S1643;"Use a StringBuilder instead.(íÁ¹úÿÿÿÿ8‹…î-
+[squid:S1197"8Move the array designator from the variable to the type.(…ëëğıÿÿÿÿ8Í®‡„î-

@@ -1,0 +1,13 @@
+
+osquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿ¡­ıúÿÿÿÿ
+Psquid:S1197ò"8Move the array designator from the variable to the type.(†¼‹™
+ƒ"squid:ClassVariableVisibilityCheck"PMake root a static final constant or non-public and provide accessors if needed.(£ÿœûùÿÿÿÿ
+Psquid:S1197Õ"8Move the array designator from the variable to the type.(™º¿ß
+d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(„×İúûÿÿÿÿ
+Usquid:S1197½"8Move the array designator from the variable to the type.(î§Æ‹úÿÿÿÿ
+‚squid:S1845ã"jRename method "knapSack" to prevent any misunderstanding/clash with method "knapsack" defined on line 213.(‰ê……
+Psquid:S1197Õ"8Move the array designator from the variable to the type.(™º¿ß
+Usquid:S1197ñ"8Move the array designator from the variable to the type.(äÒıôøÿÿÿÿ
+Psquid:S1197ã"8Move the array designator from the variable to the type.(‰ê……
+Usquid:S1197˜"8Move the array designator from the variable to the type.(î†‘ùÿÿÿÿ
+Psquid:S1197ã"8Move the array designator from the variable to the type.(‰ê……

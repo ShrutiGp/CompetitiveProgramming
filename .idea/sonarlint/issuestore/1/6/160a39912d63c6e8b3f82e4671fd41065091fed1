@@ -1,0 +1,8 @@
+
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı“ô©
+?squid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+„ squid:ForLoopCounterChangedCheck+"XRefactor the code in order to not assign to this loop counter from within the loop body.(´™ß×
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÓùËÇÿÿÿÿÿ
+Esquid:S11250")Remove the literal "false" boolean value.(­šÕÅûÿÿÿÿ

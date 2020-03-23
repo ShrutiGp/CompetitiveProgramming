@@ -1,0 +1,9 @@
+
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(öÿ—8äƒÕƒ‰.
+osquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(†éª¥úÿÿÿÿ8§ê¼†‰.
+wsquid:S3008"TRename this field "max_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÓÌ–ıÿÿÿÿ8ç±Èƒ‰.
+jsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ÅØ×Ñ8¦·í…‰.
+esquid:S2259:"BA "NullPointerException" could be thrown; "node" is nullable here.(úşöúúÿÿÿÿ8‡í„‰.
+osquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(ÿ®ê¯øÿÿÿÿ8¦·í…‰.
+|squid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ…Û°ûÿÿÿÿ8ÕÚ‚„‰.
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Ë«

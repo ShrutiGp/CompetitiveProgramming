@@ -1,0 +1,27 @@
+
+osquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(½í‰þüÿÿÿÿ8À®Ñ‘÷-
+bsquid:HiddenFieldCheck©"8Rename "root" which hides the field declared at line 30.(‘°Ï—8ÄŸ•÷-
+\squid:S1197—"8Move the array designator from the variable to the type.(±Àô½üÿÿÿÿ8¼šö•÷-
+jsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(¿›«å8³ñœ–÷-
+jsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(“®Ó8À®Ñ‘÷-
+dsquid:HiddenFieldCheck–"5Rename "q" which hides the field declared at line 81.(¡üöñÿÿÿÿÿ8Ç×÷-
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Ë«
+Ksquid:S1905"'Remove this unnecessary cast to "Node".(²ïâŒüÿÿÿÿ8Ç×÷-
+hsquid:S4201ž"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‡Íœ8Ç×÷-
+bsquid:HiddenFieldCheckã"8Rename "res" which hides the field declared at line 569.(à½Õ€8ÀÞš–÷-
+osquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(®í¼îùÿÿÿÿ8Ç×÷-
+jsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(â–Î¯8À®Ñ‘÷-
+jsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(Šâ˜Ê8¦ƒü”÷-
+isquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(ÑÃÙc8ÍØü”÷-
+osquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(¾‚šœÿÿÿÿÿ8Ç×÷-
+‘squid:S1319ˆ"mThe type of the "aa" object should be an interface such as "List" rather than the implementation "ArrayList".(Ü­ãûÿÿÿÿ8úæ¥”÷-
+Tsquid:S2696Æ"6Make the enclosing method "static" or remove this set.(ñ•æA8í÷ž–÷-
+Wsquid:S1197¨"8Move the array designator from the variable to the type.(ˆáÏ8ùâŒ•÷-
+asquid:S2259Ü"BA "NullPointerException" could be thrown; "root" is nullable here.(Éù²Õ8Ç×÷-
+\squid:S1197ë"8Move the array designator from the variable to the type.(º ìýÿÿÿÿ8ÍØü”÷-
+csquid:HiddenFieldCheckp"5Rename "q" which hides the field declared at line 81.(³­¯ßýÿÿÿÿ8Ç×÷-
+osquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(Ÿ¼÷…úÿÿÿÿ8¦ƒü”÷-
+jsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(¨ú¹È8³ñœ–÷-
+osquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ç×÷-
+jsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(±íÙõ8ÏŽ°äˆ.
+osquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ÿÜçÿúÿÿÿÿ8ÏŽ°äˆ.

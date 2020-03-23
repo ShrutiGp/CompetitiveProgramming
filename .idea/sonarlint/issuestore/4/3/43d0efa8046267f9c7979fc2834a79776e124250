@@ -1,0 +1,5 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(È³“…ùÿÿÿÿ8«×ê‚Ñ-
+:squid:S1643"Use a StringBuilder instead.(‚¹Í‰8Ç•í‚Ñ-
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ8Ç•í‚Ñ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«¥×

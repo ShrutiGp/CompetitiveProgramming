@@ -1,0 +1,9 @@
+
+Msquid:S1481""*Remove this unused "found" local variable.(Íªäúÿÿÿÿ8¼óàî-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¼óàî-
+Vsquid:S1197"8Move the array designator from the variable to the type.(„®§8¼óàî-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«¥×
+Wsquid:S1854*"9Remove this useless assignment to local variable "found".(·”íŒ8¼óàî-
+[squid:S1197"8Move the array designator from the variable to the type.(æíÏ˜úÿÿÿÿ8¼óàî-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(œû¿Ø8¼óàî-
+^squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8°ŠûØÛ-

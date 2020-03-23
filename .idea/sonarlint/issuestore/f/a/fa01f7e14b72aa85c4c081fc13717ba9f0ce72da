@@ -1,0 +1,19 @@
+
+[squid:S1197l"8Move the array designator from the variable to the type.(Ø¦ÍÊøÿÿÿÿ8¨¬ª‰.
+[squid:S1197)"8Move the array designator from the variable to the type.(¹³¨‡úÿÿÿÿ8¨¬ª‰.
+isquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(è·’÷8‘¨¬ª‰.
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8‘¨¬ª‰.
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ8Ü˜„Ìó-
+isquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(Ä—œÂ8‘¨¬ª‰.
+nsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(Ï£ùÿÿÿÿ8‘¨¬ª‰.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı“ô©
+nsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(÷£ú†ÿÿÿÿÿ8¨¬ª‰.
+[squid:S1197("8Move the array designator from the variable to the type.(ú²æÊùÿÿÿÿ8ÿí‹¹÷-
+[squid:S1197?"8Move the array designator from the variable to the type.(Ø¦ÍÊøÿÿÿÿ8¨¬ª‰.
+nsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(áëæéüÿÿÿÿ8‘¨¬ª‰.
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(âäÅàÿÿÿÿÿ8¨¬ª‰.
+nsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8‘¨¬ª‰.
+Isquid:S1612#",Replace this lambda with a method reference.(ïƒÙ8ÏóŒÌó-
+[squid:S1197"8Move the array designator from the variable to the type.(ÍİÃ‹ùÿÿÿÿ8Ü˜„Ìó-
+_squid:UselessImportCheck"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8‘¨¬ª‰.
+Vsquid:S1197V"8Move the array designator from the variable to the type.(„ØÑÌ8¨¬ª‰.

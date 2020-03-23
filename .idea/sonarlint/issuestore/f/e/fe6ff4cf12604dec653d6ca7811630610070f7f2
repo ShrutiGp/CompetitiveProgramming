@@ -1,0 +1,9 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(ÛÎ§ÿÿÿÿÿ8°úÁĞ‹.
+\squid:S1854"9Remove this useless assignment to local variable "words".(’Ÿß½şÿÿÿÿ8“·ĞĞ‹.
+Zsquid:S1854"7Remove this useless assignment to local variable "arr".(ÛÎ§ÿÿÿÿÿ8ŒñÏĞ‹.
+Ksquid:S1481"(Remove this unused "arr" local variable.(ÛÎ§ÿÿÿÿÿ8ŒñÏĞ‹.
+Msquid:S1481"*Remove this unused "words" local variable.(’Ÿß½şÿÿÿÿ8“·ĞĞ‹.
+Vsquid:S1197,"8Move the array designator from the variable to the type.(õ¥ë8°úÁĞ‹.
+Rsquid:S1172"/Remove this unused method parameter "findWord".(ûÏ¥øÿÿÿÿ8ŒñÏĞ‹.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(òŞìÆüÿÿÿÿ8ğÎÈãŠ.

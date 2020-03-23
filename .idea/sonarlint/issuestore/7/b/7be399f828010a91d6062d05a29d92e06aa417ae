@@ -1,0 +1,44 @@
+
+Wsquid:S1197„"8Move the array designator from the variable to the type.(ø¼¾§8¾„À‰.
+Osquid:S1197h"8Move the array designator from the variable to the type.(Ş…¶Ë
+Osquid:S1197"8Move the array designator from the variable to the type.(„ØÑÌ
+\squid:S1197’"8Move the array designator from the variable to the type.(Ø¦ÍÊøÿÿÿÿ8È®ñ‰.
+jsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(¶‘¸¼8È®ñ‰.
+Bsquid:S1481:"+Remove this unused "start1" local variable.(‚ñ½ù
+\squid:S1197¯"8Move the array designator from the variable to the type.(öãˆ·ùÿÿÿÿ8ïì–‰.
+Gsquid:S1481;"+Remove this unused "start2" local variable.(Ëçöûÿÿÿÿ
+Lsquid:S1604³"(Make this anonymous inner class a lambda(Ÿ’Ï†øÿÿÿÿ8È®ñ‰.
+Wsquid:S1197®"8Move the array designator from the variable to the type.(³€óÂ8µà”‰.
+Tsquid:S1197S"8Move the array designator from the variable to the type.(Ö—–Êıÿÿÿÿ
+Osquid:S11978"8Move the array designator from the variable to the type.(×±ª
+Vsquid:S1197"8Move the array designator from the variable to the type.(×»a8³÷·‰.
+Usquid:S1197¥"8Move the array designator from the variable to the type.(£éÚÙÿÿÿÿÿ
+Psquid:S1197…"8Move the array designator from the variable to the type.(¾…Š
+Wsquid:S1197«"8Move the array designator from the variable to the type.(àŞş8È®ñ‰.
+Wsquid:S1854›"8Remove this useless assignment to local variable "arr2".(«ç·8È®ñ‰.
+Tsquid:S1197g"8Move the array designator from the variable to the type.(ºğâìıÿÿÿÿ
+\squid:S1197"8Move the array designator from the variable to the type.(ßï¯ªøÿÿÿÿ8È®ñ‰.
+Vsquid:S1197¥"8Move the array designator from the variable to the type.(£¢58È®ñ‰.
+Wsquid:S1197à"8Move the array designator from the variable to the type.(¾ú–·8ôÔì‰.
+\squid:S1197œ"8Move the array designator from the variable to the type.(Œ†ò×ùÿÿÿÿ8Ù¾¶‰.
+Osquid:S11978"8Move the array designator from the variable to the type.(×±ª
+\squid:S1197û"8Move the array designator from the variable to the type.(—“¶¢øÿÿÿÿ8È®ñ‰.
+Usquid:S1197»"8Move the array designator from the variable to the type.(À·ÚŸıÿÿÿÿ
+Wsquid:S1197á"8Move the array designator from the variable to the type.(Ò¡€¶8ôÔì‰.
+Hsquid:S1481›")Remove this unused "arr2" local variable.(«ç·8È®ñ‰.
+\squid:S1197œ"8Move the array designator from the variable to the type.(Œ†ò×ùÿÿÿÿ8Ù¾¶‰.
+Wsquid:S1197›"8Move the array designator from the variable to the type.(«ç·8È®ñ‰.
+Psquid:S1197Ñ"8Move the array designator from the variable to the type.(®ğÚ¬
+Usquid:S1197—"8Move the array designator from the variable to the type.(éîğãÿÿÿÿÿ
+\squid:S1197š"8Move the array designator from the variable to the type.(ˆñ„­úÿÿÿÿ8È®ñ‰.
+Tsquid:S1197!"8Move the array designator from the variable to the type.(Ø¦ÍÊøÿÿÿÿ
+Osquid:S1197T"8Move the array designator from the variable to the type.(Ş…¶Ë
+Wsquid:S1197‚"8Move the array designator from the variable to the type.(äıÅÜ8È®ñ‰.
+Wsquid:S1197¡"8Move the array designator from the variable to the type.(Ï³†á8È®ñ‰.
+bsquid:S1192K"FDefine a constant instead of duplicating this literal " i : " 4 times.(»ŸÖÉùÿÿÿÿ
+\squid:S1197÷"8Move the array designator from the variable to the type.(Ú¼©¢øÿÿÿÿ8–ŒŒ‘‰.
+jsquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(ËÈğ±8–ŒŒ‘‰.
+jsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(§¼Úµ8–ŒŒ‘‰.
+osquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8–ŒŒ‘‰.
+jsquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(×æ¦Å8–ŒŒ‘‰.
+Vsquid:S2589æ"7Remove this expression which always evaluates to "true"(ı¿Ê´8–ŒŒ‘‰.
