@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c98e28b-38e6-476e-9d1a-6bbbaed61c39" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/101ba539ade57207e67fb373bcd5c48df3431ed1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/153c9cc2a030719abeb44c5f9102f765d0825c33" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/160a39912d63c6e8b3f82e4671fd41065091fed1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a7d5754f84ef66c060738355661944e049493ea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7186c8a14e34e863abf933f91b8468c46c803b05" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cef7829321736b7cb53c55259cbe4d6d3a823ab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fc9b5066a1c15259560d7b1482bc4b7910b9eea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/927fcc6d023dc2240a10e753c9787392609bd71d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca1f5b546978525fa8693488f55056bbcb383186" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb1f54edb6d7bc437e97fbbebf5639156945f782" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf510670b1e72baee0fcdf318de5f1154afa1e44" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed7208df1712975efff4d62fc09620f6e527122b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f61a08cc15344850242a180219a46dd4e6da0bd9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/CountTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/DP/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/DP/editDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/DPMinimumCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/ElementInMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/InroderSuccessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/KsmalletsUsingQuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/KthMissingSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/LIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/LinkedList/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/LinkedList/MiddleElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/MaximumIndexDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/MergeWithoutExtraSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/NumberOfOccurences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Parenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/RainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/RightmostOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/RotateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/SqaureCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/StackAndQueues/CircularTour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/StackAndQueues/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/StackAndQueues/MaximumOfSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/StackAndQueues/NonRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/StackAndQueues/ParenthesisChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/StackAndQueues/findSmallestInStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Strings/AllPermutationsOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Strings/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Strings/LongestCommonSubstringDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Strings/ReverseSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Strings/RomanToNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/SubarrayWithSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Trees/BinaryTree1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Trees/LeftView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/Trees/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/numbersWithUniqueDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amazon/zeroToFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MahorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BSTEXAMPLE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassForAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Corpus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreateBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringPrograms/ReverseWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompetitivePrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CompetitivePrograms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DPPrograms/RodCutting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DPPrograms/RodCutting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/QuickSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c98e28b-38e6-476e-9d1a-6bbbaed61c39" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
